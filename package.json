@@ -37,5 +37,11 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/emoji-unicode/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/emoji-unicode#readme"
+  "homepage": "https://github.com/IonicaBizau/emoji-unicode#readme",
+  "devDependencies": {
+    "emoji-name-map": "^1.1.2"
+  },
+  "blah": {
+    "thanks": "This module is heavily based on [this StackOverflow answer](http://stackoverflow.com/a/37729608/1420197) by [**@liufa**](https://github.com/liufa). :cake:"
+  }
 }
