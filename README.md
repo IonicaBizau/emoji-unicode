@@ -27,6 +27,9 @@ console.log(emojiUnicode("📻"));
 console.log(emojiUnicode.raw("📻"));
 // => 128251
 
+console.log(emojiUnicode(toEmoji.get(":radio:")));
+// => 1f4fb
+
 console.log(emojiUnicode(toEmoji.get("radio")));
 // => 1f4fb
 ```
