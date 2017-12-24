@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save emoji-unicode
+# Using npm
+npm install --save emoji-unicode
+
+# Using yarn
+yarn add emoji-unicode
 ```
 
 
