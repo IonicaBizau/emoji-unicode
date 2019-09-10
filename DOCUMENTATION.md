@@ -6,7 +6,6 @@ You can see below the API reference of this module.
 Get the unicode code of an emoji in base 16.
 
 #### Params
-
 - **String** `input`: The emoji character.
 
 #### Return
@@ -16,7 +15,6 @@ Get the unicode code of an emoji in base 16.
 Get the unicode code of an emoji in base 16.
 
 #### Params
-
 - **String** `input`: The emoji character.
 
 #### Return
