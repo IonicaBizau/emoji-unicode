@@ -18,5 +18,5 @@ Get the unicode code of an emoji in base 16.
 - **String** `input`: The emoji character.
 
 #### Return
-- **Number** The unicode code.
+- **String** The unicode code points.
 
